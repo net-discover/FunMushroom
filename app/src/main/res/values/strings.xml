@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">多趣蘑菇</string>
+    <string name="myorder">我的订单</string>
+    <string name="waitPay">待付款</string>
+    <string name="send_goods">待发货</string>
+    <string name="receiving_goods">待收货</string>
+    <string name="comment">待评价</string>
+    <string name="grid_after_sale">退换/售后</string>
+    <string name="mine_fav">我的收藏</string>
+    <string name="mine_history">浏览记录</string>
+    <string name="mine_functional_feedback">功能反馈</string>
+    <string name="mine_receiving_address_manager">收货地址管理</string>
+    <string name="mine_about_mushRomm">关于蘑菇</string>
 </resources>
